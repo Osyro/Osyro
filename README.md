@@ -10,7 +10,7 @@ I Love Code!!!
 
 * 🌍  I'm based in UK
 * 🖥️  See my portfolio at [Portfolio (coming soon)](http://soon)
-* 🚀  I'm currently working on [Reserva (no link to live version)](http://( no link )
+* 🚀  I'm currently working on [Reserva (no link to live version)] (http://no link)
 * 🧠  I'm learning Next.JS
 * 🤝  I'm open to collaborating on React Native, Front End, Back end and Open Source
 
